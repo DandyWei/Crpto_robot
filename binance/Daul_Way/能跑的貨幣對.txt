@@ -1,0 +1,98 @@
+2020.1.1
+ETHUSDT  指損用20趴
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              122            92             30
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               75.41          12             2              13803168.23
+最终市值 14569338.956514338
+__________________________________________________
+BNBUSDT 10趴指損
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              170            100            70
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               58.82          8              5              1969663.41
+最终市值 2958927.8756711436
+__________________________________________________
+ADAUSDT 10趴指損
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              179            99             80
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               55.31          6              6              4199808.09
+最终市值 5130111.923694638
+__________________________________________________
+DOGEUSDT
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              120            64             56
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               53.33          5              4              4028634.31
+最终市值 4800949.318986393
+__________________________________________________
+UNIUSDT
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              84             36             48
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               42.86          5              8              367503.05
+最终市值 1347069.9604651453
+__________________________________________________
+LINKUSDT
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              215            104            111
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               48.37          6              9              1265706.74
+最终市值 2274464.2103677024
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________
+LTCUSDT
+k线数量 18961
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              216            98             118
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               45.37          5              7              232512.06
+最终市值 1352723.16868601
+持幣1507000.0
+OrderedDict([('sharperatio', -1.0093356943677025)])
+433
+__________________________________________________
+MATICUSDT
+k线数量 18266
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               1              272            126            146
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               46.32          4              9              6028498.53
+最终市值 6599004.304230892
+持幣1507000.0
+OrderedDict([('sharperatio', -0.63130589112017)])
+545
+__________________________________________________
+SOLUSDT
+k线数量 7045
+Trade Analysis Results:
+               Total Open     Total Closed   Total Won      Total Lost
+               0              116            56             60
+               Strike Rate    Win Streak     Losing Streak  PnL Net
+               48.28          5              7              1209011.44
+最终市值 2209011.4417338036
+持幣1507000.0
+OrderedDict([('sharperatio', -0.5507741640253757)])
+232
+__________________________________________________
